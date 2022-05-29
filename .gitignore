@@ -2,5 +2,4 @@
 nvim/
 StardewValley/
 btop/
-yarn/
-yarn
+yarn/global/node_modules
